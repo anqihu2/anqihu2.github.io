@@ -1,4 +1,4 @@
-# Basic Information 
+# Basic Information
 title: Anqi Hu
 position: Ph.D. Student
 school affiliation: Department of Linguistics and Cognitive Science, University of Delaware, Newark, DE
@@ -11,16 +11,16 @@ keywords: minimal light
 description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
 canonical: https://minimal-light-theme.yliu.me/
 
-# Links 
+# Links
 # If you don't need one of them, you may delete the corresponding line.
 cv_link: assets/files/Resume_AnqiHu_DataScientist.pdf
 github_link: https://github.com/anqihu2/
 linkedin: https://www.linkedin.com/in/anqi-hu-7b797a280/
 twitter: https://twitter.com/AnqiHu6/
 
-# Images (e.g., your profile picture and your website's favicon) 
-# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
-avatar: ./assets/img/avatar.png
+# Images (e.g., your profile picture and your website's favicon)
+# "favicon" and "favicon_dark" are used for the light and dark modes, respectively.
+avatar: ./assets/img/prof_pic.png
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
