@@ -1,6 +1,6 @@
-<h2 id="proceedings" style="margin: 2px 0px -15px;">Conference Proceedings</h2>
+<h2 id="publications" style="margin: 2px 0px -15px;">Conference Proceedings</h2>
 
-<div class="proceedings">
+<div class="publications">
 <ol class="bibliography">
 
 {% for link in site.data.proceedings.main %}
