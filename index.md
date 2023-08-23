@@ -11,7 +11,7 @@ I am a Ph.D. researcher at University of Delaware, currently conducting research
 <li><b>What predicts better language learning outcomes in typical language development?</b></li>
 <br>
 
-I also design and develop<b>online games</b> for data collection with children (see my [spotlight interview](https://gorilla.sc/spotlights/anqi-hu/?utm_source=twitter&utm_medium=social&utm_campaign=spotlights) with Gorilla), and <b>automate data analysis tools</b> for a range of behavioral data, including eye-tracking and transcription of natural speech (see my [github analysis page](https://github.com/anqihu2/TIME)). 
+I also design and develop <b>online games</b> for data collection with children (see my [spotlight interview](https://gorilla.sc/spotlights/anqi-hu/?utm_source=twitter&utm_medium=social&utm_campaign=spotlights) with Gorilla), and <b>automate data analysis tools</b> for a range of behavioral data, including eye-tracking and transcription of natural speech (see my [github analysis page](https://github.com/anqihu2/TIME)). 
 
 <strong style="color:#e74d3c; font-weight:600"><strong style="color:#e74d3c; font-weight:600">I am graduating from my PhD in May, 2024, currently looking for post-doc positions or jobs, related to research in Language Learning, Child Development, Neurological, and Computational Linguistics. I am happy to discuss or talk about my research in any format. Please feel free to contact me via my email: anqihu@udel.edu</strong></strong>
 
