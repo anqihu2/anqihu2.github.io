@@ -6,8 +6,8 @@ layout: homepage
 
 I am a Ph.D. researcher at University of Delaware, currently conducting research in Northeastern University working in [Language Acquisition and Brain Laboratory](https://qlab.sites.northeastern.edu/#_ga=2.94446172.1301808369.1631565118-881301409.1631216206). I study the <b>language learning mechanisms across the life span in neurotypical adults and children and also in autistic children</b>. Through my research, I hope to answer:
 <br>
-  <li><b>What underlies language impairment in autistic children?</b></li>
-  <li><b>What predicts better language learning outcomes in typical language development?</b></li>
+  <li><b><style="padding-left: 4rem">What underlies language impairment in autistic children?</b></li>
+  <li><b><style="padding-left: 4rem">What predicts better language learning outcomes in typical language development?</b></li>
 <br>
 I also design and develop<b>online games</b> for data collection with children (see my [spotlight interview](https://gorilla.sc/spotlights/anqi-hu/?utm_source=twitter&utm_medium=social&utm_campaign=spotlights) with Gorilla), and <b>automate data analysis tools</b> for a range of behavioral data, including eye-tracking and transcription of natural speech (see my [github analysis page](https://github.com/anqihu2/TIME)). 
 
