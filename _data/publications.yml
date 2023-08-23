@@ -1,0 +1,35 @@
+main:
+
+  - title: Dissociation Between Linguistic and Nonlinguistic Statistical Learning in Children with Autism
+    authors: <strong>Anqi Hu</strong>, Violet Kozloff, Amanda Owen Van Horne, Diane Chugani, Zhenghan Qi
+    conference_short: JADD
+    conference: Journal of Autism and Developmental Disorders <strong>(JADD)</strong>, 2023.
+    pdf: https://link.springer.com/article/10.1007/s10803-023-05902-1
+    image: ./assets/img/jadd_figure.png
+
+  - title: "Measuring Statistical Learning Across Modalities and Domains in School-Aged Children Via an Online Platform and Neuroimaging Techniques"
+    authors: Julie M. Schneider, <strong>Anqi Hu</strong>, Jennifer Legault, Zhenghan Qi
+    conference_short: JOVE
+    conference: Journal of Visual Experiment <strong>(JOVE)</strong>, 2020.
+    pdf: https://bpb-us-w2.wpmucdn.com/sites.udel.edu/dist/b/6253/files/2020/07/Schneider-et-al.-2020-Measuring-Statistical-Learning-Across-Modalities-and-Domains-in-School-Aged-Children-Via-an-Online-Platform-an.pdf
+    image: ./assets/img/jove_figure.jpeg
+
+  - title: "Linking the neural basis of distributional statistical learning with transitional statistical learning: The paradox of attention"
+    authors: Julie M. Schneider, Yi-lun Weng, <strong>Anqi Hu</strong>, Zhenghan Qi
+    conference_short: Neuropsychologia
+    conference: Neuropsychologia <strong>(Neuropsychologia)</strong>, 2022.
+    pdf: https://www.sciencedirect.com/science/article/abs/pii/S0028393222001439
+
+  - title: "Statistical learning in children's emergent L2 literacy: Cross-cultural insights from rural Côte d'Ivoire"
+    authors: Benjamin Zinszer, Joelle Hannon, <strong>Anqi Hu</strong>, Aya Élise Kouadio, YAPO HERMANN AKPE, Fabrice Tanoh, Madeleine L Wang, Zhenghan Qi, Kaja K. Jasińska
+    conference_short: Developmental Science
+    conference: Developmental Science <strong>(Dev Sci)</strong>, 2023.
+    pdf: https://osf.io/preprints/africarxiv/q8k5w/
+    notes: In-Principle Acceptance
+
+  - title: "Does non-linguistic segmentation still predict literacy in an L2 education? Statistical learning in Ivorian primary schools"
+    authors: Benjamin Zinszer, Joelle Hannon, Aya Élise Kouadio, Hermann Akpé, Fabrice Tanoh, <strong>Anqi Hu</strong>, Zhenghan Qi, Kaja K. Jasińska
+    conference_short: Language Learning
+    conference: Language Learning <strong>(Lang Learn)</strong>, 2023.
+    pdf: https://osf.io/6kc9m
+    notes: In Press
