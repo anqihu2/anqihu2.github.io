@@ -1,7 +1,7 @@
 <h1 id="projects"></h1>
 
 <h2 style="margin: 60px 0px 10px;">Current Research Projects</h2>
-
+<br>
 <h3 style="margin:0 10px 0;"><em>Implicit Learning and Language Development</em></h3>
 
 <p style="text-indent: 50px">
