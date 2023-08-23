@@ -24,3 +24,4 @@ I also design and develop online games for data collection with children, and au
 <br>
 
 {% include_relative _includes/publications.md %}
+{% include_relative _includes/proceedings.md %}
