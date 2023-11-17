@@ -6,11 +6,12 @@
 
 <p style="text-indent: 50px">
 
-  <h4 style="margin:0 8px 0; padding-left: 2rem">Dissertation Project: The Role of Prior Language Experience in Linguistic Statistical Learning</h4>
+  <h4 style="margin:0 8px 0; padding-left: 2rem">Dissertation Project: The Interaction Between the Attention and the Language System During Linguistic Statistical Learning Across Typical and Atypical Language Development</h4>
   
   <ul style="margin:0 0 5px; padding-left: 6rem">
-    <li>Explore functional connectivity between language comprehension networks, attention networks, and the whole-brain during lingusitic SL in neurotypical children</li>
-    <li>Assessed how prior linguistic experiences influence SL in autistic children and those in reading intervention programs</li>
+    <li>Determine the relationship between concurrent language skills and the attention facilitation effect in linguistic SL among autistic children</li>
+    <li>Determine the relationship between reading skill improvement and the attention facilitation effect in linguistic SL among children with reading difficulties</li>
+    <li>Decipher the interaction between attention (dis)engagement and the brain’s sensitivity to linguistic patterns in typical language development</li>
   </ul>
 
 
