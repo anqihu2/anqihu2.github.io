@@ -80,3 +80,113 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 .publications ol.bibliography li div.abstract.hidden.open { border-color: var(--global-text-color); }
 
 .publications ol.bibliography li .teaser { border-radius: 8px; box-shadow: 3px 3px 6px #888; height: 123px; width: 270px; margin-top: 5px; margin-left: 5px; margin-bottom: 5px; object-fit: cover; }
+
+.publications ol.bibliography li {
+  margin-bottom: 1rem;
+  min-height: auto;
+}
+
+.modern-card {
+  align-items: stretch;
+  gap: 18px;
+  padding: 18px 20px;
+  border: 1px solid rgba(11,79,138,0.10);
+  border-radius: 22px;
+  box-shadow: 0 12px 24px rgba(7, 33, 63, 0.05);
+}
+
+.pub-media {
+  width: 150px;
+  min-width: 150px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+
+.pub-content {
+  padding-left: 0 !important;
+}
+
+.publications ol.bibliography li .title {
+  font-size: 1.06rem;
+  line-height: 1.45;
+  margin-bottom: 0.25rem;
+}
+
+.publications ol.bibliography li .author {
+  margin-bottom: 0.3rem;
+}
+
+.publications ol.bibliography li .periodical {
+  color: var(--global-text-color-light);
+  margin-bottom: 0.55rem;
+}
+
+.publications ol.bibliography li .links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+  align-items: center;
+}
+
+.publications ol.bibliography li .links a.btn {
+  border-radius: 999px;
+  padding: 0.25rem 0.75rem;
+  font-size: 0.82rem;
+  border-color: rgba(11,79,138,0.35);
+  color: #0b4f8a;
+}
+
+.inline-note {
+  display: inline-block;
+  color: #0b4f8a;
+  font-weight: 600;
+  font-size: 0.88rem;
+}
+
+.publications ol.bibliography li .teaser {
+  width: 140px;
+  height: 96px;
+  border-radius: 14px;
+  object-fit: cover;
+  margin: 0;
+  box-shadow: none;
+}
+
+.publications ol.bibliography li .abbr {
+  height: auto;
+  margin-bottom: 0;
+}
+
+.publications ol.bibliography li .abbr abbr {
+  position: static;
+  box-shadow: none;
+  border-radius: 999px;
+  padding: 0.4rem 0.85rem;
+  align-self: flex-start;
+}
+
+@media (max-width: 720px) {
+  .pub-row.modern-card {
+    flex-direction: column;
+  }
+  .pub-media {
+    width: auto;
+    min-width: 0;
+    justify-content: flex-start;
+  }
+}
+
+@media (prefers-color-scheme: dark) {
+  .modern-card {
+    border-color: rgba(141,208,255,0.16);
+    box-shadow: none;
+  }
+  .publications ol.bibliography li .links a.btn {
+    color: #8dd0ff;
+    border-color: rgba(141,208,255,0.35);
+  }
+  .inline-note {
+    color: #8dd0ff;
+  }
+}

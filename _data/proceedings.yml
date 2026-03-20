@@ -1,9 +1,14 @@
 main:
-
-  - title: Accommodation to Vocal Pitch in Children with Autism
-    authors: <strong>Anqi Hu</strong>, Zhenghan Qi, Kathryn Franich
-    conference_short: ICPhs
-    conference: Proceedings of the 20th International Congress of Phonetic Sciences <strong>(ICPhs)</strong>, 2023.
-    pdf: https://bpb-us-w2.wpmucdn.com/sites.northeastern.edu/dist/5/743/files/2023/08/time_ICPhS23_final_revised.pdf
-    image: ./assets/img/f0_group.png
-    notes: Peer Reviewed
+- title: 'Novel word learning in multilingual children with and without autism spectrum
+    disorder: roles of social cognition, multilingualism and vocabulary proficiency'
+  authors: Ning J., <strong>Hu A.</strong>, Qi Z., & Sheng L.
+  conference_short: CogSci
+  conference: <strong>Proceedings of the Annual Meeting of the Cognitive Science Society</strong>,
+    2024.
+  pdf: https://escholarship.org/uc/item/7p70s6d8
+- title: Accommodation to vocal pitch in children with autism
+  authors: <strong>Hu A.</strong>, Qi Z., & Franich K.
+  conference_short: ICPhS
+  conference: <strong>Proceedings of the 20th International Congress of Phonetic Sciences</strong>,
+    2023.
+  pdf: https://www.internationalphoneticassociation.org/icphs-proceedings/ICPhS2023/full_papers/304.pdf

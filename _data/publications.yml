@@ -1,32 +1,46 @@
 main:
-
-  - title: Dissociation Between Linguistic and Nonlinguistic Statistical Learning in Children with Autism
-    authors: <strong>Anqi Hu</strong>, Violet Kozloff, Amanda Owen Van Horne, Diane Chugani, Zhenghan Qi
-    conference_short: JADD
-    conference: Journal of Autism and Developmental Disorders <strong>(JADD)</strong>, 2023.
-    pdf: https://link.springer.com/article/10.1007/s10803-023-05902-1
-    image: ./assets/img/jadd_figure.png
-
-  - title: "Measuring Statistical Learning Across Modalities and Domains in School-Aged Children Via an Online Platform and Neuroimaging Techniques"
-    authors: Julie M. Schneider, <strong>Anqi Hu</strong>, Jennifer Legault, Zhenghan Qi
-    conference_short: JOVE
-    conference: Journal of Visual Experiment <strong>(JOVE)</strong>, 2020.
-    pdf: https://bpb-us-w2.wpmucdn.com/sites.udel.edu/dist/b/6253/files/2020/07/Schneider-et-al.-2020-Measuring-Statistical-Learning-Across-Modalities-and-Domains-in-School-Aged-Children-Via-an-Online-Platform-an.pdf
-    image: ./assets/img/jove_figure.jpeg
-
-  - title: "Linking the neural basis of distributional statistical learning with transitional statistical learning: The paradox of attention"
-    authors: Julie M. Schneider, Yi-lun Weng, <strong>Anqi Hu</strong>, Zhenghan Qi
-    conference: Neuropsychologia <strong>(Neuropsychologia)</strong>, 2022.
-    pdf: https://www.sciencedirect.com/science/article/abs/pii/S0028393222001439
-
-  - title: "Statistical learning in children's emergent L2 literacy: Cross-cultural insights from rural Côte d'Ivoire"
-    authors: Benjamin Zinszer, Joelle Hannon, <strong>Anqi Hu</strong>, Aya Élise Kouadio, YAPO HERMANN AKPE, Fabrice Tanoh, Madeleine L Wang, Zhenghan Qi, Kaja K. Jasińska
-    conference: Developmental Science <strong>(Dev Sci)</strong>, 2023.
-    pdf: https://osf.io/preprints/africarxiv/q8k5w/
-    notes: In-Principle Acceptance
-
-  - title: "Does non-linguistic segmentation still predict literacy in an L2 education? Statistical learning in Ivorian primary schools"
-    authors: Benjamin Zinszer, Joelle Hannon, Aya Élise Kouadio, Hermann Akpé, Fabrice Tanoh, <strong>Anqi Hu</strong>, Zhenghan Qi, Kaja K. Jasińska
-    conference: Language Learning <strong>(Lang Learn)</strong>, 2023.
-    pdf: https://osf.io/6kc9m
-    notes: In Press
+- title: The feasibility of online (virtual-world) eye-tracking with young children
+  authors: Ovans Z., Ayala A., Asmah R., <strong>Hu A.</strong>, Montoute M., Van
+    Horne A., Qi Z., Morini G., & Huang Y.T.
+  conference_short: Open Mind
+  conference: <strong>Open Mind</strong>, 2025.
+  pdf: https://direct.mit.edu/opmi/article/9/992/128949/The-Feasibility-of-Online-Virtual-World-Eye
+- title: Dissociation Between Linguistic and Nonlinguistic Statistical Learning in
+    Children with Autism
+  authors: <strong>Hu A.</strong>, Kozloff V., Owen Van Horne A., Chugani D., & Qi
+    Z.
+  conference_short: JADD
+  conference: <strong>Journal of Autism and Developmental Disorders</strong>, 2023.
+  pdf: https://link.springer.com/article/10.1007/s10803-023-05902-1
+  image: ./assets/img/jadd_figure.png
+- title: Measuring statistical learning across modalities and domains in school-aged
+    children via an online platform and neuroimaging techniques
+  authors: Schneider J.M., <strong>Hu A.</strong>, Legault J., & Qi Z.
+  conference_short: JoVE
+  conference: <strong>Journal of Visualized Experiments</strong>, 2020.
+  pdf: https://www.jove.com/t/61474/measuring-statistical-learning-across-modalities-domains-school-aged
+  image: ./assets/img/jove_figure.jpeg
+  notes: Video protocol
+- title: 'Linking the neural basis of distributional statistical learning with transitional
+    statistical learning: The paradox of attention'
+  authors: Schneider J.M., Weng Y.-L., <strong>Hu A.</strong>, & Qi Z.
+  conference: <strong>Neuropsychologia</strong>, 2022.
+  pdf: https://www.sciencedirect.com/science/article/pii/S0028393222001439
+- title: Statistical learning and children's emergent literacy in rural Côte d'Ivoire
+  authors: Zinszer B.D., Hannon J., <strong>Hu A.</strong>, Kouadio A.E., Akpé H.,
+    Tanoh F., Wang M., Qi Z., & Jasińska K.
+  conference: <strong>Developmental Science</strong>, 2024.
+  pdf: https://onlinelibrary.wiley.com/doi/10.1111/desc.13448
+- title: Does non-linguistic segmentation still predict literacy in an L2 education?
+    Statistical learning in Ivorian primary schools
+  authors: Zinszer B.D., Hannon J., Kouadio É., Akpé H., Tanoh F., <strong>Hu A.</strong>,
+    Qi Z., & Jasińska K.
+  conference: <strong>Language Learning</strong>, 2023.
+  pdf: https://onlinelibrary.wiley.com/doi/10.1111/lang.12603
+- title: Modality-Specific Consolidation Shapes Long-Term Retention in Statistical
+    Learning
+  authors: <strong>Hu A.</strong>, Parks K., Schulz S., Larmer S., Batterink L., &
+    Stevenson R.A.
+  conference: Under review. Preprint available on OSF.
+  pdf: https://doi.org/10.31234/osf.io/c73ws_v2
+  notes: Under review

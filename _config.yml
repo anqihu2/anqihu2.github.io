@@ -1,35 +1,29 @@
 # Basic Information
 title: Anqi Hu
-position: Ph.D. Student
-school affiliation: Department of Linguistics and Cognitive Science, University of Delaware, Newark, DE
-research afflitation: I am currently completing my dissertation projects in Northeastern University, Boston, MA
-email: anqihu (at) udel.edu
+position: Postdoctoral Fellow
+affiliation: Department of Psychology, Western University
+affiliation_link: https://www.uwo.ca/psychology/
+email: ahu233 (at) uwo.ca
 
 # Search Engine Optimization (SEO)
-# The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
-canonical: https://minimal-light-theme.yliu.me/
+keywords: Anqi Hu, language development, autism, statistical learning, multisensory learning, developmental cognitive neuroscience
+description: Personal academic website of Anqi Hu, a postdoctoral fellow studying language development, social communication, and multisensory learning in children.
+canonical: https://anqihu2.github.io/
 
 # Links
-# If you don't need one of them, you may delete the corresponding line.
-cv_link: assets/files/CV_AnqiHu_academic.pdf
+cv_link: ./assets/files/Anqi_Hu_CV_Postdoc_03202026.pdf
 github_link: https://github.com/anqihu2/
 linkedin: https://www.linkedin.com/in/anqi-hu-7b797a280/
-twitter: https://twitter.com/AnqiHu6/
 
-# Images (e.g., your profile picture and your website's favicon)
-# "favicon" and "favicon_dark" are used for the light and dark modes, respectively.
+# Images
 avatar: ./assets/img/prof_pic.png
 favicon: ./assets/img/favicon.png
 favicon_dark: ./assets/img/favicon-dark.png
 
 # Footnote
-# You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
-enable_footnote: true
+enable_footnote: false
 
 # Auto Dark Mode
-# You may use the option to disable the automatic dark theme
 auto_dark_mode: true
 
 # The following files will be removed from the generated website.

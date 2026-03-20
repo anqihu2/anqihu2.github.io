@@ -1,9 +1,33 @@
 main:
-
-  - title: Accommodation to Vocal Pitch in Children with Autism
-    authors: <strong>Anqi Hu</strong>, Zhenghan Qi, Kathryn Franich
-    conference_short: ICPhs
-    conference: Proceedings of the 20th International Congress of Phonetic Sciences <strong>(ICPhs)</strong>, 2023.
-    pdf: https://bpb-us-w2.wpmucdn.com/sites.northeastern.edu/dist/5/743/files/2023/08/time_ICPhS23_final_revised.pdf
-    image: ./assets/img/f0_group.png
-    notes: Peer Reviewed
+- title: Vocabulary Acquisition in Noisy Social Contexts in Autistic Children
+  authors: <strong>Hu A.</strong>, Fan A., Mack R., Kosich K., Qi Z., & Stevenson
+    R.
+  conference_short: INSAR 2026
+  conference: International Society for Autism Research (INSAR), Prague, April 22-25,
+    2026.
+  pdf: ./assets/files/Vocabulary_Acquisition_in_Noisy_Social_Contexts_in_Autistic_Children.pdf
+  notes: Accepted abstract
+- title: The Changing Roles of the Language and Attention Systems in Statistical Learning
+    Across Development
+  authors: <strong>Hu A.</strong>, Trice K., Lanka P., & Qi Z.
+  conference_short: BUCLD
+  conference: Boston University Conference on Language Development, 2024.
+  notes: Oral presentation
+- title: Selective Attention Facilitates Linguistic Statistical Learning in Autistic
+    Children
+  authors: <strong>Hu A.</strong>, & Qi Z.
+  conference_short: SRCLD
+  conference: Symposium on Research in Child Language Disorders, 2023.
+  notes: Oral presentation
+- title: Contributions of Vocabulary and Theory of Mind to Word Learning Across Social
+    Contexts in Autistic Children
+  authors: <strong>Hu A.</strong>, & Qi Z.
+  conference_short: MoLA
+  conference: Meeting on Language in Autism, 2024.
+  notes: Poster
+- title: Word learning and retention from overhearing as a resilience factor for vocabulary
+    acquisition in autistic children
+  authors: <strong>Hu A.</strong>, & Qi Z.
+  conference_short: MoLA
+  conference: Meeting on Language in Autism, 2023.
+  notes: Poster

@@ -1,54 +1,26 @@
-<h1 id="projects"></h1>
+<h2 id="projects" class="section-heading">Research Projects</h2>
 
-<h2 style="margin: 60px 0px 10px;">Current Research Projects</h2>
-<br>
-<h3 style="margin:0 10px 0;"><em>Implicit Learning and Language Development</em></h3>
-
-<p style="text-indent: 50px">
-
-  <h4 style="margin:0 8px 0; padding-left: 2rem">Dissertation Project: The Interaction Between the Attention and the Language System During Linguistic Statistical Learning Across Typical and Atypical Language Development</h4>
-  
-  <ul style="margin:0 0 5px; padding-left: 6rem">
-    <li>Determine the relationship between concurrent language skills and the attention facilitation effect in linguistic SL among autistic children</li>
-    <li>Determine the relationship between reading skill improvement and the attention facilitation effect in linguistic SL among children with reading difficulties</li>
-    <li>Decipher the interaction between attention (dis)engagement and the brain’s sensitivity to linguistic patterns in typical language development</li>
+<div class="project-card">
+  <h3>Multisensory Pathways in Children's Language Learning</h3>
+  <ul>
+    <li><strong>Social learning:</strong> tests how face visibility and auditory noise affect word learning in neurotypical and neurodivergent children.</li>
+    <li><strong>Implicit learning:</strong> examines whether music entrainment enhances children's statistical learning using behavioral and EEG measures.</li>
+    <li><strong>Developmental pathways:</strong> investigates links among multisensory integration, social cognition, and language learning across development.</li>
   </ul>
+</div>
 
-
-  <h4 style="margin:0 8px 0; padding-left: 2rem">Project 2: Statistical Learning and Language Development in Autistic and Neurotypical Children</h4>
-  
-  <ul style="margin:0 0 5px; padding-left: 6rem">
-    <li>Identified behavioral indicators of language impairment in autistic children by analyzing statistical learning in multiple domains and modalities (<a href="https://link.springer.com/article/10.1007/s10803-023-05902-1">Published Paper</a>)</li>
-    <li>Uncovered the neural bases of statistical learning in neurotypical adults and children using functional magnetic resonance imaging (fMRI) techniques (<a href="https://bpb-us-w2.wpmucdn.com/sites.northeastern.edu/dist/5/743/files/2022/10/snl_2022_blastfmri_developmental.pdf">Conference Poster</a>)</li>
+<div class="project-card">
+  <h3>Speech Adaptation and Prosody in Autism</h3>
+  <ul>
+    <li>Examines pitch imitation and prosodic adaptation in school-aged autistic children.</li>
+    <li>Includes open-source tools for remote speech data collection and analysis.</li>
   </ul>
-  
-  <h4 style="margin:0 8px 0; padding-left: 2rem">Project 3: Speech Learning through Implicit Imitation in School-aged Autistic Children</h4>
-  
-  <ul style="margin:0 0 5px; padding-left: 6rem">
-    <li>Investigated pitch imitation and prosodic variances in autistic children by comparing pitch entrainment to model talkers in sentence repetition tasks (<a href="https://bpb-us-w2.wpmucdn.com/sites.northeastern.edu/dist/5/743/files/2023/08/time_ICPhS23_final_revised.pdf">Published Proceeding</a>)</li>
-    <li>Developed and launched web-based audio recording software for at-home speech data collection</li>
+</div>
+
+<div class="project-card">
+  <h3>Online Methods for Developmental Research</h3>
+  <ul>
+    <li>Builds child-friendly online games and experimental pipelines for remote data collection.</li>
+    <li>Develops efficient coding and analysis workflows for eye-tracking, transcription, and behavioral data.</li>
   </ul>
-</p>  
-  
-
-
-<h3 style="margin:0 10px 0;"><em>Social Learning and Vocabulary Acquisition</em></h3>
-
-<p style="text-indent: 50px">
-  
-  <h4 style="margin:0 8px 0; padding-left: 2rem">Project 4: Incidental Word Learning in Social Contexts in Autistic Children</h4>
-  
-  <ul style="margin:0 0 5px; padding-left: 6rem">
-    <li>Compared word learning and retention from storylistening in a direct-addressed versus an overhearing social contexts  in school-aged autistic children (<a href="https://qrcgcustomers.s3-eu-west-1.amazonaws.com/account24417075/35294901_1.pdf?0.8221150831593449">Conference Poster</a>)</li>
-    <li>Executed a 3-year production process for naturalistic story stimuli, encompassing script development, filming, editing video and audio materials</li>
-    <li>Tailored online experimental platform to capture eye tracking data</li>
-  </ul>
-
-
-  <h4 style="margin:0 8px 0; padding-left: 2rem">Project 5: Quality of Web-based Eye Tracking Experiments in Children</h4>
-  
-  <ul style="margin:0 0 5px; padding-left: 6rem">
-    <li>Partnered with various labs across institutes to analyze web-based eye tracking data, assessing its quality in child developmental research (<a href="https://bpb-us-w2.wpmucdn.com/sites.northeastern.edu/dist/5/743/files/2023/03/Ovans_HSP_Poster_2023.pdf">Conference Poster</a>)</li>
-    <li>Engineered a Python script for eyegaze coding, enhancing efficiency by 50%</li>
-  </ul>
-</p>
+</div>
