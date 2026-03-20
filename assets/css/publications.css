@@ -87,6 +87,8 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
 }
 
 .modern-card {
+  display: flex;
+  flex-direction: row;
   align-items: stretch;
   gap: 18px;
   padding: 18px 20px;
@@ -101,6 +103,11 @@ blockquote { background: var(--global-bg-color); border-left: 2px solid var(--gl
   display: flex;
   align-items: flex-start;
   justify-content: center;
+}
+
+.pub-media.no-image {
+  width: 80px;
+  min-width: 80px;
 }
 
 .pub-content {
