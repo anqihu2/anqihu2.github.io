@@ -4,7 +4,7 @@ main:
     Horne A., Qi Z., Morini G., & Huang Y.T.
   conference_short: Open Mind
   conference: <strong>Open Mind</strong>, 2025.
-  pdf: https://direct.mit.edu/opmi/article/9/992/128949/The-Feasibility-of-Online-Virtual-World-Eye
+  pdf: https://direct.mit.edu/opmi/article/doi/10.1162/opmi.a.16/132239/The-Feasibility-of-Remote-Visual-World-Eye
 - title: Dissociation Between Linguistic and Nonlinguistic Statistical Learning in
     Children with Autism
   authors: <strong>Hu A.</strong>, Kozloff V., Owen Van Horne A., Chugani D., & Qi
@@ -12,14 +12,12 @@ main:
   conference_short: JADD
   conference: <strong>Journal of Autism and Developmental Disorders</strong>, 2023.
   pdf: https://link.springer.com/article/10.1007/s10803-023-05902-1
-  image: ./assets/img/jadd_figure.png
 - title: Measuring statistical learning across modalities and domains in school-aged
     children via an online platform and neuroimaging techniques
   authors: Schneider J.M., <strong>Hu A.</strong>, Legault J., & Qi Z.
   conference_short: JoVE
   conference: <strong>Journal of Visualized Experiments</strong>, 2020.
   pdf: https://www.jove.com/t/61474/measuring-statistical-learning-across-modalities-domains-school-aged
-  image: ./assets/img/jove_figure.jpeg
   notes: Video protocol
 - title: 'Linking the neural basis of distributional statistical learning with transitional
     statistical learning: The paradox of attention'

@@ -5,15 +5,18 @@
 {% for link in site.data.publications.main %}
 <li>
   <div class="pub-row modern-card">
+    {% if link.image %}
     <div class="col-sm-3 abbr pub-media">
-      {% if link.image %}
       <img src="{{ link.image }}" class="teaser img-fluid z-depth-1" alt="{{ link.title }}">
-      {% endif %}
-      {% if link.conference_short %}
-      <abbr class="badge">{{ link.conference_short }}</abbr>
-      {% endif %}
+      {% if link.conference_short %}<abbr class="badge">{{ link.conference_short }}</abbr>{% endif %}
     </div>
     <div class="col-sm-9 pub-content">
+    {% else %}
+    <div class="col-sm-2 abbr pub-media no-image">
+      {% if link.conference_short %}<abbr class="badge">{{ link.conference_short }}</abbr>{% endif %}
+    </div>
+    <div class="col-sm-10 pub-content">
+    {% endif %}
       <div class="title">{% if link.pdf %}<a href="{{ link.pdf }}" target="_blank" rel="noopener">{{ link.title }}</a>{% else %}{{ link.title }}{% endif %}</div>
       <div class="author">{{ link.authors }}</div>
       <div class="periodical"><em>{{ link.conference }}</em></div>
