@@ -3,6 +3,7 @@ layout: homepage
 ---
 
 <div class="hero-card">
+  <p class="hero-question">Why do children have heterogeneous language outcomes?</p>
   <p class="hero-text">
     I am currently a Postdoctoral Fellow in Psychology at Western University. My research combines behavioral methods and neuroimaging to understand language learning in autistic and neurotypical children. I am especially interested in the question of why children show such variable language learning outcomes. I approach this question through the lens of language learning, and I research what occurs in the language learning processes that lead to language difficulties.
   </p>
@@ -13,7 +14,6 @@ layout: homepage
   <p><strong>Postdoctoral Fellow</strong><br>
   Department of Psychology, Western University<br>
   January 2025 to December 2027</p>
-  <p><strong>Previous training:</strong> PhD and MA in Linguistics and Cognitive Science, University of Delaware</p>
 </div>
 
 <h2 class="section-heading">Education</h2>
