@@ -27,4 +27,47 @@ layout: homepage
 {% include_relative _includes/publications.md %}
 {% include_relative _includes/proceedings.md %}
 {% include_relative _includes/talks.md %}
-{% include_relative _includes/projects.md %}
+
+<h2 id="projects" class="section-heading">Research Projects &amp; Experience</h2>
+
+<div class="project-card">
+  <h3>Multisensory Pathways in Children's Language Learning</h3>
+  <ul>
+    <li><strong>Social learning:</strong> Study how face visibility and auditory noise affect word learning in neurotypical and neurodivergent children.</li>
+    <li><strong>Implicit learning:</strong> Test whether music entrainment enhances children's implicit statistical learning using behavioral and EEG measures.</li>
+    <li><strong>Developmental pathways:</strong> Investigate cascading relationships among multisensory integration, social cognition, and language learning across development.</li>
+  </ul>
+</div>
+
+<div class="project-card">
+  <h3>Implicit Learning and Language Development</h3>
+
+  <p><strong>Project 1: The Changing Roles of the Language and Attention Systems in Statistical Learning Across Development</strong></p>
+  <ul>
+    <li>Led five behavioral and fMRI studies on statistical learning (SL) across 300 neurotypical adults and neurodiverse children (submitted paper).</li>
+    <li>Identified statistical learning as a potential predictor of language development in autistic children and children with reading difficulties (published paper).</li>
+    <li>Demonstrated that domain-general attention can enhance SL in children with language difficulties (dissertation).</li>
+  </ul>
+
+  <p><strong>Project 2: Speech Adaptation in School-aged Autistic Children</strong></p>
+  <ul>
+    <li>Showed atypical pitch adaptation in autistic children by comparing pitch entrainment to model talkers in sentence repetition tasks (published proceeding).</li>
+    <li>Developed and launched open-source web-based audio recording software for at-home speech data collection (GitHub repository).</li>
+  </ul>
+</div>
+
+<div class="project-card">
+  <h3>Social Learning and Vocabulary Acquisition</h3>
+
+  <p><strong>Project 3: Incidental Word Learning Across Social Contexts in Children</strong></p>
+  <ul>
+    <li>Uncovered overhearing as a resilience factor to word learning and retention in school-aged autistic children (poster).</li>
+    <li>Executed a 3-year production process for naturalistic story stimuli, encompassing script development, filming, and editing video and audio materials.</li>
+  </ul>
+
+  <p><strong>Project 4: Quality of Web-based Eye Tracking Experiments in Children</strong></p>
+  <ul>
+    <li>Partnered with 4 labs across institutes to analyze web-based eye tracking data, assessing its quality in child developmental research (published paper).</li>
+    <li>Engineered a Python script for eyegaze coding, enhancing efficiency by 50% (GitHub).</li>
+  </ul>
+</div>
